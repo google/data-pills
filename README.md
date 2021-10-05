@@ -11,8 +11,8 @@ The complexity of each pill varies, requiring from basic python and SQL knowledg
 
 # Available Pills:
 
-| Data Pill | Objective | Data Source | Technologies used
-|----------------|----------------|----------------|----------------|----------------|
+| Data Pill | Objective | Data Source | Technologies used |
+|----------------|----------------|----------------|-----------------------------|
 |[CM] Frequency Analysis | Calculate the ideal frequency for campaigns ran through Campaign Manager or DV360 | Data Transfer or ADH | - Python (pandas)<br>-SQL |
 |[CM] Campaign Overlap |Understand the impact of each step of the funnel on client's conversion rate | Data Transfer or ADH | - Python (pandas)<br>-SQL |
 |[CM] Offline Conversions Uploader |Upload gclid or device_id based floodlight conversions to Campaing manager | Google Sheets | - Python |
