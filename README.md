@@ -7,6 +7,8 @@ All Data Pills were built with simplicity in mind, in a way that it should only 
 
 The complexity of each pill varies, requiring from basic python and SQL knowledge to more advanced Machine Learning proficiency
 
+**Disclaimer:** This is not an officially supported Google product.
+
 # Available Pills:
 
 | Data Pill | Objective | Data Source | Technologies used
