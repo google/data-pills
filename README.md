@@ -17,12 +17,12 @@ The complexity of each pill varies, requiring from basic python and SQL knowledg
 |[CM] Campaign Overlap |Understand the impact of each step of the funnel on client's conversion rate | Data Transfer or ADH | - Python (pandas)<br>-SQL |
 |[CM] Offline Conversions Uploader |Upload gclid or device_id based floodlight conversions to Campaing manager | Google Sheets | - Python |
 |[Google Ads] Frequency and Audience analysis|Calculate the ideal frequency and top performing audiences for display and video ads in Google Ads | ADH | - Python (pandas)<br>-SQL |
+|[Google Ads] Customer Market Intelligence (CMI)|Find out which Google Audiences are more aligned with your Customer Match audiences|Google Ads Audience Insights report|- Python (pandas)|
 |[GA360] Conversion Blockers|Automatically Identify UX issues on the website which are blocking conversions (i.e. lack of browser or language support, bad performing landing pages, …) | GA360 export to BigQuery | - Python (pandas)<br>-SQL |
 |[GA360] Feature Importance|Understand what behaviors (features) are most correlated with purchase probability |GA360 export to BigQuery | - Python (pandas)<br> - Sklearn (ML)<br>-SQL |
 |[GA360] Predictive Lifetime Value | Calculate the predicted lifetime value (amount of money the client will spend) in the future |GA360 export to BigQuery | - Python (pandas)<br>-SQL |
 |[GA] Measurement Protocol sender | Import offline conversions to Google Analytics Ecommerce | GA (free or 360) | - Python <br> - ClientId collection<br> - Offline Sales data |
 |[GA] Customer Market Intelligence (CMI) |Find out which Google Audiences are more aligned with your products or content |GA(free or 360) | - Python (pandas)<br>-JavaScript |
-
 
 # How to use a Data Pill
 
