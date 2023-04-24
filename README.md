@@ -1,6 +1,6 @@
 # Welcome to Data Pills!
 
-Each _Data Pill_ consists in a _codelab_ styled, jupyter notebook built for Google Colabs (hosted by Google Drive), which performs advanced analysis on top of GA360, Google Ads, GMP and Third Party data and provides a **actionable** next steps.
+Each _Data Pill_ consists in a _codelab_ styled, jupyter notebook built for Google Colabs (hosted by Google Drive), which performs advanced analysis on top of GA360, GA4, Google Ads, GMP and Third Party data and provides a **actionable** next steps.
 
 All Data Pills were built with simplicity in mind, in a way that it should only take a couple of minutes to set the environment variables to run an analysis against your media and analytics data.
 
